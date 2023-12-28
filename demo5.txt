@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content 5 from msater
+=======
+content 5 from first branch
+>>>>>>> first
